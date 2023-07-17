@@ -186,6 +186,7 @@ function Random() {
           <img
             src={clipbord}
             className="boxImg1"
+            alt="No img found"
             width={50}
             height={40}
             onClick={handleCopyToClipboard}
@@ -195,6 +196,7 @@ function Random() {
           <img
             src={box}
             className="boxImg"
+            alt="No img found"
             width={50}
             height={40}
             onClick={handleOpen}
