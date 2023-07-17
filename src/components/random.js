@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import generator from "generate-password";
+// import generator from "generate-password";
 import "./random.css";
 import box from "./box-archive-solid.svg";
 import clipbord from "./clipboard-regular.svg";
